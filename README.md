@@ -1,29 +1,23 @@
-📘 Ebook-IA-ChatGPT-MidJourney/
-├── README.md
-├── prompts.txt
-├── artigo.md
-├── imagens/
-│   ├── capa.jpg
-│   ├── capitulo1.jpg
-│   └── capitulo2.jpg
-├── ebook-final.pdf
-└── .gitignore
+# 📘 IA e o Futuro da Educação
 
-Arquivo principal com a descrição do projeto, incluindo:
+Este projeto é um eBook desenvolvido com o apoio de ferramentas de Inteligência Artificial, como o ChatGPT e o MidJourney. Seu objetivo é explorar os impactos, desafios e possibilidades que a IA traz para o futuro da educação.
 
-Objetivo do eBook
+## 📌 Conteúdo
+- Visão geral sobre IA na educação
+- Tecnologias emergentes e aplicações reais
+- Desafios éticos e oportunidades
+- Ilustrações criadas com MidJourney
 
-Tecnologias usadas (ChatGPT e MidJourney)
+## 🚀 Tecnologias Utilizadas
+- ChatGPT (OpenAI)
+- MidJourney (via Discord)
+- FPDF para montagem do PDF
 
-Link para o eBook final
+## 📎 Arquivos
+- `ebook-final.pdf`: versão final do eBook
+- `prompts.txt`: prompts usados com IA
+- `artigo.md`: artigo com bastidores do projeto
+- `imagens/`: capa e ilustrações
 
-Créditos e referências
-
-prompts.txt
-Contém todos os prompts utilizados no ChatGPT e MidJourney, como:
-
-ChatGPT Prompt:
-"Crie uma introdução para um eBook de fantasia com um herói que descobre poderes mágicos."
-
-MidJourney Prompt:
-/imagine prompt: a young mage discovering a glowing ancient book in a dark forest --v 6 --ar 3:4
+## ✨ Autor
+Criado por Renato Lemos Limongi de Aguiar Moraes, como parte do desafio DIO.
